@@ -27,6 +27,7 @@ If you want to know the project name  it will be after the project part of the u
 ![bild](https://github.com/Kasties/TabLog/assets/59847033/495f5ed5-4cfa-4fa5-a353-c55983e80383)
 
 To setup moobot or whatever bot you are using
+
 ![bild](https://github.com/Kasties/TabLog/assets/59847033/ed316974-d96a-437a-baac-63f6cf894c3e) 
 
 have it fetch json data then put in the url you added to to the addon https://firestore.googleapis.com/v1/projects/(project name)/databases/(default)/documents/Song/List
