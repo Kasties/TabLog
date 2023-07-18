@@ -9,7 +9,8 @@ how to setup download the folder then go to chrome://extensions/ or whatever ext
 ![bild](https://github.com/Kasties/TabLog/assets/59847033/01b131a5-46bf-4efc-9b7e-77a7e7a11f0e)
 
 then select the folder. I would recommend pinning it.
-The first step is to setup a Firebase Firestore its free so thats why I used it.
+
+The first step is to setup a Firebase Firestore its free so thats why I used it. https://firebase.google.com/
 Then you need to setup a colletion
 
 ![bild](https://github.com/Kasties/TabLog/assets/59847033/603e0649-3dfd-46b8-a359-5e7d61af2479)
