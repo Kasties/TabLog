@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Loggers",
+    "description": "Log tab names to a file",
+    "version": "1.0",
+    "permissions": ["tabs", "storage", "activeTab"],
+    "host_permissions": [
+      ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "options_page": "options.html"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  

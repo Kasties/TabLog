@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Tab Loggers</title>
+    <style>
+      #urlEntry {
+        display: none;
+        width: 250px;  /* Adjust as needed */
+        height: 100px; /* Adjust as needed */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mainContent">
+      <h1>Tab Loggers</h1>
+      <button id="markTab">Mark Tab</button>
+      <button id="enterUrl">Enter URL</button>
+    </div>
+    <div id="urlEntry">
+      <label for="firebaseUrl">Enter your Firestore URL:</label>
+      <input type="text" id="firebaseUrl">
+      <button id="saveUrl">Save</button>
+    </div>
+    <script src="popup.js"></script>
+    <script src="options.js"></script>
+  </body>
+</html>
